@@ -1,3 +1,3 @@
 (ns dropbox-challenge.core)
 
-(defn parse [] "")
+(defn parse [input] {})

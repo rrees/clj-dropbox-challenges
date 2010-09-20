@@ -1,3 +1,4 @@
+(ns dropbox-challenge.core-test)
 
 (use '[lazytest.describe :only (describe it given)])
 (use 'dropbox-challenge.core)
